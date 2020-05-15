@@ -1,0 +1,29 @@
+{
+	"name": "EvaSuccubus",
+	"description": "Testing the Eva Import! v0.00",
+	"author": "Forgotten",
+	"modLoaderVer": 1.1,
+	"prerequisites": [],
+	"baseDir": "EvaSuccubus",
+
+	"AdventureList": [],
+	"EventList": [
+		"Events/EvaAppears.json",
+	],
+	"ItemList": [],
+	"LocationList": [
+		"Locations/ForestAddition.json"
+	],
+	"MonsterList": [
+		"Monsters/Eva.json"
+	],
+	"NPCList": [],
+	"PerkList": [],
+	"SkillList": [],
+
+	"FetishLists": [],
+	"AddictionLists": [],
+
+	"BrothelList":[]
+
+}

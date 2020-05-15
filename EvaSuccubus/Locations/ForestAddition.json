@@ -1,0 +1,25 @@
+{
+    "name": "Mystic Forest",
+    "exploreTitle": "Addition",
+    "Monsters": [],
+    "MonsterGroups": [
+                  {
+                      "Monsters": [""]
+                  }
+
+                ],
+    "Events": ["EvaAppears"],
+    "Quests": [""],
+    "Adventures": [""],
+    "Treasure": [
+                {
+                    "Common": [""]
+                },
+                {
+                    "Uncommon": [""]
+                },
+                {
+                    "Rare": [""]
+                }
+              ]
+}
